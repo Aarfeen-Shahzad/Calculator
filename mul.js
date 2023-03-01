@@ -1,5 +1,5 @@
-function mul(a, b) {
-  return a * b;
+function div(a, b) {
+  return a / b;
 }
-mul(4, 6);
-console.log(mul(4, 6));
+div(6, 2);
+console.log(div(6, 2));
