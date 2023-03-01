@@ -1,5 +1,5 @@
-function div(a, b) {
-  return a / b;
+function sum(a, b) {
+  return a + b;
 }
-div(6, 2);
-console.log(div(6, 2));
+sum(6, 2);
+console.log(sum(6, 2));
