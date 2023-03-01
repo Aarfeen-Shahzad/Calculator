@@ -1,5 +1,5 @@
-function sum(a, b) {
-  return a + b;
+function mul(a, b) {
+  return a * b;
 }
-sum(4, 6);
-console.log(sum(4, 6));
+mul(4, 6);
+console.log(mul(4, 6));
